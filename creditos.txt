@@ -1,0 +1,8 @@
+Sites que forneceram base para alguns dos codigos utilizados no trabalho:
+
+https://pt.wikibooks.org/wiki/VHDL/Flip-flop_d - Flip Flop tipo D
+https://pt.scribd.com/doc/60635457/Somador-1-4-8-16-32-e-64-bits-VHDL - Somador
+https://www.altera.com/support/support-resources/design-examples/design-software/vhdl/vhd-single-port-rom.html - Memoria ROM
+http://www.rfwireless-world.com/source-code/VHDL/read-write-RAM-vhdl-code.html - Memoria RAM
+http://stackoverflow.com/questions/17451492/how-to-convert-8-bits-to-16-bits-in-vhdl - Extensor de sinal
+https://ivnaan.wordpress.com/2009/11/07/maquinas-de-estados-em-vhdl/ - Maquina de estados
