@@ -1,0 +1,4 @@
+Foi utilizado no desenvolvimento dos artefatos o software Quartus Prime. Tanto o proprio codigo em VHDL como os testes atraves de Waveforms e a imagem da
+RTL viewer foram todos gerados nesse software. Mais informacoes sobre o software no link: https://www.altera.com/products/design-software/fpga-design/quartus-prime/overview.html
+Adicionalmente, foram utilizados como softwares auxiliares o Microsoft Word e o Notepad++, para criar os arquivos de texto, e o MS Paint, para transformar
+as screenshots das waveforms e RTL viewers em imagens png.
